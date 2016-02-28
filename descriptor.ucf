@@ -1,0 +1,2 @@
+NET "clk_200mhz" LOC = "K21";
+NET "led_0" LOC = "D17";
